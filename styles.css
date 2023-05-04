@@ -1,0 +1,59 @@
+body {
+  font-family: 'Bruno Ace SC', cursive;
+}
+
+#recomend-container, #btn, footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.carousel-img {
+  height: 420px;
+  width: 700px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  filter: invert(100%);
+}
+
+#movie-generator {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#movie-generator img {
+  height: 420px;
+  width: 700px;
+}
+
+#btn {
+  margin-top: 15px;
+}
+
+.hidden {
+  display: none;
+}
+
+footer {
+  background-color: #e0dbd7;
+  width: 100%;
+}
+
+footer p {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+#logo {
+  text-align: center;
+  height: 20px;
+  width: 20px;
+  padding-left: 50px;
+}
+
+#user-reviews img {
+  height: 128px;
+  width: 128px;
+}
